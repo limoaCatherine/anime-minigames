@@ -1,0 +1,24 @@
+# 依赖 / 构建产物 (都可以用 npm 脚本重新生成)
+node_modules/
+dist/
+build-douyin/
+build-wechat/
+release/
+build/*
+!build/voice-picked.json
+*.zip
+# 去背景中间图 (tools/process_images.py 可由 source/ 重新生成)
+assets/images/cutout/
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+*.box-store-snap-*
+
+# 密钥 / 本地配置 (miniprogram-ci 上传密钥等，绝不提交)
+*.key
+*.pem
+.env
+.env.*

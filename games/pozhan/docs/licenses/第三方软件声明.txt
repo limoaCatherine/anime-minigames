@@ -1,0 +1,29 @@
+《次元破绽！》第三方软件 / 素材声明
+出品：狸猫
+
+1. Electron (仅 Windows 桌面版)
+   许可证：MIT License。全文见 exe 同目录的 LICENSE 文件。
+   Electron 内含 Chromium 及其依赖的开源组件，各组件许可证见 exe 同目录的 LICENSES.chromium.html。
+   https://github.com/electron/electron
+
+2. VOICEVOX (配音生成工具，未随游戏分发)
+   游戏中的日语配音由 VOICEVOX 生成。游戏只包含生成好的音频文件，不包含 VOICEVOX 软件、引擎或音声模型本身。
+   - VOICEVOX 软件利用规约：VOICEVOX_软件利用规约.txt
+   - VOICEVOX 音声模型及各音声库利用规约：VOICEVOX_音声模型vvm_利用规约.txt (音声模型规约全文 + 本游戏所用音声库条目)
+   - VOICEVOX ENGINE 为 LGPL v3 / 另行授权的双重许可 (https://github.com/VOICEVOX/voicevox_engine)；本游戏未包含、未修改、未分发该引擎。
+   署名 (游戏内「设置 → 制作人员」页)：
+     VOICEVOX:満別花丸   (糯糯)
+     VOICEVOX:冥鳴ひまり (零七)
+     VOICEVOX:四国めたん (苏夜绫)
+     VOICEVOX:九州そら   (林栖)
+     VOICEVOX:あんこもん (团子社长)
+   各角色规约：満別花丸_利用规约.txt、冥鳴ひまり_利用规约.txt、四国めたん_九州そら_音源利用规约.txt、あんこもん_利用规约.txt
+
+3. 背景音乐、音效
+   背景音乐由本项目程序生成 (tools/compose_bgm.py)，音效由 WebAudio 实时合成 / 预渲染 (src/systems/AudioSystem.js)，无第三方音频素材。
+
+4. 美术
+   角色立绘、背景图为本项目素材 (assets/images)；关卡中的其余图形由代码绘制。字体使用设备系统字体，未随游戏分发任何字体文件。
+
+5. 开发工具 (不随游戏分发)
+   esbuild (MIT)、Playwright (Apache-2.0)、@electron/packager (BSD-2-Clause)、resedit (MIT)、Pillow、ffmpeg —— 仅用于构建与测试。

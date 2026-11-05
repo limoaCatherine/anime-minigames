@@ -1,0 +1,40 @@
+{
+  "name": "anime-stack",
+  "version": "3.3.0",
+  "description": "《美少女了个美》AnimeStack - HTML5 Canvas 叠叠消 (三消卡槽) 小游戏",
+  "main": "src/main.js",
+  "scripts": {
+    "build": "node tools/build.mjs",
+    "build:douyin": "node tools/build.mjs && node tools/build-douyin.mjs",
+    "serve": "node tools/serve.js 8766",
+    "start": "npm run build && node tools/serve.js 8766",
+    "process-images": "python tools/process_images.py",
+    "voices": "node tools/generate_voices.mjs",
+    "check-levels": "node tools/check_levels.mjs",
+    "test": "node tools/test.mjs",
+    "test:logic": "node tools/test-logic.mjs",
+    "test:douyin": "node tools/test-douyin.mjs",
+    "shots": "node tools/shots.mjs docs anime-stack-v3-",
+    "pick-voices": "python tools/pick_voice_takes.py build/voice-aivis",
+    "bgm": "python tools/compose_bgm.py",
+    "measure-audio": "node tools/measure_audio.mjs",
+    "icons": "python tools/make_icons.py",
+    "desktop": "npm run build && electron desktop/main.js",
+    "package:win": "node tools/package.mjs win",
+    "package:linux": "node tools/package.mjs linux",
+    "test:desktop": "node tools/test-desktop.mjs",
+    "build:wechat": "node tools/build.mjs && node tools/build-wechat.mjs",
+    "test:wechat": "node tools/test-wechat.mjs"
+  },
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@electron/packager": "^20.3.0",
+    "electron": "^44.7.0",
+    "esbuild": "^0.28.2",
+    "playwright": "^1.64.0",
+    "resedit": "^3.1.0"
+  },
+  "private": true,
+  "type": "commonjs",
+  "author": "狸猫"
+}

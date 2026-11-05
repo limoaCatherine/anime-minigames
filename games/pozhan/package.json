@@ -1,0 +1,36 @@
+{
+  "name": "anime-spotdiff",
+  "version": "1.3.0",
+  "description": "《次元破绽！》AnimeSpotDiff - HTML5 Canvas 二次元梗图找茬小游戏",
+  "main": "src/main.js",
+  "scripts": {
+    "build": "node tools/build.mjs",
+    "serve": "node tools/serve.js 8767",
+    "start": "npm run build && node tools/serve.js 8767",
+    "process-images": "python tools/process_images.py",
+    "voices": "node tools/generate_voices.mjs",
+    "bgm": "python tools/compose_bgm.py",
+    "icons": "python tools/make_icons.py",
+    "verify-levels": "node tools/verify_levels.mjs",
+    "test": "node tools/test.mjs",
+    "shots": "node tools/shots.mjs",
+    "desktop": "npm run build && electron desktop/main.js",
+    "package:win": "node tools/package.mjs win",
+    "build:douyin": "node tools/build_douyin.mjs",
+    "sfx": "node tools/render_sfx.mjs",
+    "test:douyin": "node tools/test_douyin.mjs",
+    "build:wechat": "node tools/build_wechat.mjs",
+    "test:wechat": "node tools/test_wechat.mjs"
+  },
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@electron/packager": "^20.3.0",
+    "electron": "^44.7.0",
+    "esbuild": "^0.28.2",
+    "playwright": "^1.64.0",
+    "resedit": "^3.1.0"
+  },
+  "private": true,
+  "type": "commonjs",
+  "author": "狸猫"
+}

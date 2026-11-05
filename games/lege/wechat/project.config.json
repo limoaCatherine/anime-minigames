@@ -1,0 +1,18 @@
+{
+  "description": "《美少女了个美》微信小游戏 · 出品：狸猫 (appid 由 build:wechat 从 wechat.config.js 写入)",
+  "setting": {
+    "urlCheck": true,
+    "es6": true,
+    "enhance": true,
+    "postcss": false,
+    "minified": false,
+    "uploadWithSourceMap": false,
+    "ignoreUploadUnusedFiles": true
+  },
+  "compileType": "game",
+  "appid": "__APPID__",
+  "projectname": "美少女了个美",
+  "packOptions": { "ignore": [ { "type": "file", "value": "说明.txt" } ], "include": [] },
+  "condition": {},
+  "editorSetting": { "tabIndent": "insertSpaces", "tabSize": 2 }
+}

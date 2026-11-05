@@ -1,0 +1,1022 @@
+[
+ {
+  "file": "assets/audio/voice/start_1.mp3",
+  "take": "start_1_take6.mp3",
+  "cer": 0.0,
+  "pitch_range_st": 6.0,
+  "pitch_std_st": 1.98,
+  "energy_dyn_db": 14.6,
+  "asr": "ねぇねぇ守ってくれる",
+  "candidates": [
+   {
+    "take": "start_1_take1.mp3",
+    "cer": 0.182,
+    "rng": 6.57,
+    "st": 2.05,
+    "en": 12.0
+   },
+   {
+    "take": "start_1_take2.mp3",
+    "cer": 0.182,
+    "rng": 5.79,
+    "st": 1.98,
+    "en": 14.3
+   },
+   {
+    "take": "start_1_take3.mp3",
+    "cer": 0.182,
+    "rng": 6.37,
+    "st": 2.09,
+    "en": 17.4
+   },
+   {
+    "take": "start_1_take4.mp3",
+    "cer": 1.0,
+    "rng": 6.01,
+    "st": 2.01,
+    "en": 16.1
+   },
+   {
+    "take": "start_1_take5.mp3",
+    "cer": 0.182,
+    "rng": 5.94,
+    "st": 2.07,
+    "en": 19.4
+   },
+   {
+    "take": "start_1_take6.mp3",
+    "cer": 0.0,
+    "rng": 6.0,
+    "st": 1.98,
+    "en": 14.6
+   },
+   {
+    "take": "start_1_take7.mp3",
+    "cer": 1.0,
+    "rng": 6.19,
+    "st": 2.01,
+    "en": 21.6
+   },
+   {
+    "take": "start_1_take8.mp3",
+    "cer": 1.0,
+    "rng": 5.95,
+    "st": 1.92,
+    "en": 14.3
+   }
+  ],
+  "lufs": -20.5
+ },
+ {
+  "file": "assets/audio/voice/start_2.mp3",
+  "take": "start_2_take6.mp3",
+  "cer": 0.25,
+  "pitch_range_st": 11.35,
+  "pitch_std_st": 3.32,
+  "energy_dyn_db": 18.4,
+  "asr": "えぇ、頼りにしてるね",
+  "candidates": [
+   {
+    "take": "start_2_take1.mp3",
+    "cer": 0.417,
+    "rng": 10.99,
+    "st": 3.31,
+    "en": 19.1
+   },
+   {
+    "take": "start_2_take2.mp3",
+    "cer": 0.333,
+    "rng": 10.78,
+    "st": 3.21,
+    "en": 19.2
+   },
+   {
+    "take": "start_2_take3.mp3",
+    "cer": 0.333,
+    "rng": 11.38,
+    "st": 3.47,
+    "en": 18.9
+   },
+   {
+    "take": "start_2_take4.mp3",
+    "cer": 0.417,
+    "rng": 10.53,
+    "st": 3.08,
+    "en": 19.5
+   },
+   {
+    "take": "start_2_take5.mp3",
+    "cer": 0.333,
+    "rng": 10.72,
+    "st": 3.3,
+    "en": 18.4
+   },
+   {
+    "take": "start_2_take6.mp3",
+    "cer": 0.25,
+    "rng": 11.35,
+    "st": 3.32,
+    "en": 18.4
+   },
+   {
+    "take": "start_2_take7.mp3",
+    "cer": 0.417,
+    "rng": 10.81,
+    "st": 3.21,
+    "en": 20.2
+   },
+   {
+    "take": "start_2_take8.mp3",
+    "cer": 1.083,
+    "rng": 10.57,
+    "st": 3.27,
+    "en": 18.2
+   }
+  ],
+  "lufs": -20.3
+ },
+ {
+  "file": "assets/audio/voice/start_3.mp3",
+  "take": "start_3_take3.mp3",
+  "cer": 0.0,
+  "pitch_range_st": 7.94,
+  "pitch_std_st": 2.61,
+  "energy_dyn_db": 19.9,
+  "asr": "よし、お願いね",
+  "candidates": [
+   {
+    "take": "start_3_take1.mp3",
+    "cer": 0.0,
+    "rng": 7.73,
+    "st": 2.79,
+    "en": 18.8
+   },
+   {
+    "take": "start_3_take2.mp3",
+    "cer": 1.0,
+    "rng": 8.72,
+    "st": 2.76,
+    "en": 17.6
+   },
+   {
+    "take": "start_3_take3.mp3",
+    "cer": 0.0,
+    "rng": 7.94,
+    "st": 2.61,
+    "en": 19.9
+   },
+   {
+    "take": "start_3_take4.mp3",
+    "cer": 0.143,
+    "rng": 8.57,
+    "st": 2.96,
+    "en": 17.4
+   },
+   {
+    "take": "start_3_take5.mp3",
+    "cer": 0.0,
+    "rng": 6.66,
+    "st": 2.29,
+    "en": 19.0
+   },
+   {
+    "take": "start_3_take6.mp3",
+    "cer": 1.0,
+    "rng": 8.14,
+    "st": 2.71,
+    "en": 20.4
+   },
+   {
+    "take": "start_3_take7.mp3",
+    "cer": 0.0,
+    "rng": 6.66,
+    "st": 2.21,
+    "en": 14.8
+   },
+   {
+    "take": "start_3_take8.mp3",
+    "cer": 0.286,
+    "rng": 6.28,
+    "st": 2.21,
+    "en": 21.0
+   }
+  ],
+  "lufs": -20.4
+ },
+ {
+  "file": "assets/audio/voice/scared_1.mp3",
+  "take": "scared_1_take5.mp3",
+  "cer": 0.1,
+  "pitch_range_st": 11.32,
+  "pitch_std_st": 3.7,
+  "energy_dyn_db": 18.6,
+  "asr": "うっ!やだやだ!こないで",
+  "candidates": [
+   {
+    "take": "scared_1_take1.mp3",
+    "cer": 1.0,
+    "rng": 10.67,
+    "st": 3.59,
+    "en": 18.2
+   },
+   {
+    "take": "scared_1_take2.mp3",
+    "cer": 0.4,
+    "rng": 10.61,
+    "st": 3.59,
+    "en": 18.2
+   },
+   {
+    "take": "scared_1_take3.mp3",
+    "cer": 0.9,
+    "rng": 10.97,
+    "st": 3.67,
+    "en": 18.4
+   },
+   {
+    "take": "scared_1_take4.mp3",
+    "cer": 1.0,
+    "rng": 10.67,
+    "st": 3.51,
+    "en": 19.6
+   },
+   {
+    "take": "scared_1_take5.mp3",
+    "cer": 0.1,
+    "rng": 11.32,
+    "st": 3.7,
+    "en": 18.6
+   },
+   {
+    "take": "scared_1_take6.mp3",
+    "cer": 0.4,
+    "rng": 9.62,
+    "st": 3.36,
+    "en": 18.0
+   },
+   {
+    "take": "scared_1_take7.mp3",
+    "cer": 0.6,
+    "rng": 10.67,
+    "st": 3.48,
+    "en": 15.7
+   },
+   {
+    "take": "scared_1_take8.mp3",
+    "cer": 1.0,
+    "rng": 10.29,
+    "st": 3.5,
+    "en": 18.5
+   }
+  ],
+  "lufs": -20.3
+ },
+ {
+  "file": "assets/audio/voice/scared_2.mp3",
+  "take": "scared_2_take5.mp3",
+  "cer": 0.143,
+  "pitch_range_st": 8.91,
+  "pitch_std_st": 3.01,
+  "energy_dyn_db": 18.8,
+  "asr": "キャッ!怖いよ!",
+  "candidates": [
+   {
+    "take": "scared_2_take1.mp3",
+    "cer": 0.571,
+    "rng": 5.83,
+    "st": 2.1,
+    "en": 16.5
+   },
+   {
+    "take": "scared_2_take2.mp3",
+    "cer": 0.571,
+    "rng": 5.66,
+    "st": 2.06,
+    "en": 18.2
+   },
+   {
+    "take": "scared_2_take3.mp3",
+    "cer": 0.429,
+    "rng": 7.43,
+    "st": 2.81,
+    "en": 17.7
+   },
+   {
+    "take": "scared_2_take4.mp3",
+    "cer": 2.429,
+    "rng": 7.22,
+    "st": 2.67,
+    "en": 18.4
+   },
+   {
+    "take": "scared_2_take5.mp3",
+    "cer": 0.143,
+    "rng": 8.91,
+    "st": 3.01,
+    "en": 18.8
+   },
+   {
+    "take": "scared_2_take6.mp3",
+    "cer": 0.429,
+    "rng": 5.83,
+    "st": 2.36,
+    "en": 15.2
+   },
+   {
+    "take": "scared_2_take7.mp3",
+    "cer": 0.429,
+    "rng": 7.31,
+    "st": 2.37,
+    "en": 18.6
+   },
+   {
+    "take": "scared_2_take8.mp3",
+    "cer": 0.714,
+    "rng": 6.12,
+    "st": 2.04,
+    "en": 17.3
+   }
+  ],
+  "lufs": -20.5
+ },
+ {
+  "file": "assets/audio/voice/scared_3.mp3",
+  "take": "scared_3_take7.mp3",
+  "cer": 0.143,
+  "pitch_range_st": 7.0,
+  "pitch_std_st": 2.36,
+  "energy_dyn_db": 18.7,
+  "asr": "わわ、助けて",
+  "candidates": [
+   {
+    "take": "scared_3_take1.mp3",
+    "cer": 0.286,
+    "rng": 6.79,
+    "st": 2.11,
+    "en": 19.8
+   },
+   {
+    "take": "scared_3_take2.mp3",
+    "cer": 0.429,
+    "rng": 7.9,
+    "st": 2.17,
+    "en": 17.1
+   },
+   {
+    "take": "scared_3_take3.mp3",
+    "cer": 1.0,
+    "rng": 7.98,
+    "st": 2.37,
+    "en": 17.7
+   },
+   {
+    "take": "scared_3_take4.mp3",
+    "cer": 1.286,
+    "rng": 8.12,
+    "st": 2.12,
+    "en": 17.8
+   },
+   {
+    "take": "scared_3_take5.mp3",
+    "cer": 0.286,
+    "rng": 8.71,
+    "st": 2.72,
+    "en": 19.6
+   },
+   {
+    "take": "scared_3_take6.mp3",
+    "cer": 1.0,
+    "rng": 8.71,
+    "st": 2.57,
+    "en": 17.9
+   },
+   {
+    "take": "scared_3_take7.mp3",
+    "cer": 0.143,
+    "rng": 7.0,
+    "st": 2.36,
+    "en": 18.7
+   },
+   {
+    "take": "scared_3_take8.mp3",
+    "cer": 1.0,
+    "rng": 8.56,
+    "st": 2.47,
+    "en": 19.5
+   }
+  ],
+  "lufs": -20.4
+ },
+ {
+  "file": "assets/audio/voice/win_1.mp3",
+  "take": "win_1_take8.mp3",
+  "cer": 0.125,
+  "pitch_range_st": 6.63,
+  "pitch_std_st": 2.26,
+  "energy_dyn_db": 22.2,
+  "asr": "やった ありがとう",
+  "candidates": [
+   {
+    "take": "win_1_take1.mp3",
+    "cer": 0.125,
+    "rng": 5.66,
+    "st": 2.05,
+    "en": 24.2
+   },
+   {
+    "take": "win_1_take2.mp3",
+    "cer": 0.125,
+    "rng": 5.9,
+    "st": 2.03,
+    "en": 21.2
+   },
+   {
+    "take": "win_1_take3.mp3",
+    "cer": 0.125,
+    "rng": 5.51,
+    "st": 1.89,
+    "en": 22.2
+   },
+   {
+    "take": "win_1_take4.mp3",
+    "cer": 0.125,
+    "rng": 6.23,
+    "st": 2.0,
+    "en": 20.6
+   },
+   {
+    "take": "win_1_take5.mp3",
+    "cer": 0.125,
+    "rng": 5.84,
+    "st": 2.01,
+    "en": 22.2
+   },
+   {
+    "take": "win_1_take6.mp3",
+    "cer": 0.125,
+    "rng": 5.67,
+    "st": 1.82,
+    "en": 24.2
+   },
+   {
+    "take": "win_1_take7.mp3",
+    "cer": 0.125,
+    "rng": 6.63,
+    "st": 2.0,
+    "en": 22.7
+   },
+   {
+    "take": "win_1_take8.mp3",
+    "cer": 0.125,
+    "rng": 6.63,
+    "st": 2.26,
+    "en": 22.2
+   }
+  ],
+  "lufs": -20.4
+ },
+ {
+  "file": "assets/audio/voice/win_2.mp3",
+  "take": "win_2_take7.mp3",
+  "cer": 0.333,
+  "pitch_range_st": 7.61,
+  "pitch_std_st": 2.43,
+  "energy_dyn_db": 20.7,
+  "asr": "えー助かった?",
+  "candidates": [
+   {
+    "take": "win_2_take1.mp3",
+    "cer": 0.556,
+    "rng": 6.63,
+    "st": 2.05,
+    "en": 21.3
+   },
+   {
+    "take": "win_2_take2.mp3",
+    "cer": 0.444,
+    "rng": 6.26,
+    "st": 1.86,
+    "en": 20.0
+   },
+   {
+    "take": "win_2_take3.mp3",
+    "cer": 0.333,
+    "rng": 7.07,
+    "st": 2.14,
+    "en": 21.0
+   },
+   {
+    "take": "win_2_take4.mp3",
+    "cer": 0.333,
+    "rng": 7.22,
+    "st": 2.22,
+    "en": 21.8
+   },
+   {
+    "take": "win_2_take5.mp3",
+    "cer": 0.333,
+    "rng": 6.96,
+    "st": 2.07,
+    "en": 22.1
+   },
+   {
+    "take": "win_2_take6.mp3",
+    "cer": 0.333,
+    "rng": 6.82,
+    "st": 2.16,
+    "en": 19.7
+   },
+   {
+    "take": "win_2_take7.mp3",
+    "cer": 0.333,
+    "rng": 7.61,
+    "st": 2.43,
+    "en": 20.7
+   },
+   {
+    "take": "win_2_take8.mp3",
+    "cer": 0.333,
+    "rng": 6.63,
+    "st": 2.01,
+    "en": 19.2
+   }
+  ],
+  "lufs": -20.4
+ },
+ {
+  "file": "assets/audio/voice/win_3.mp3",
+  "take": "win_3_take8.mp3",
+  "cer": 0.143,
+  "pitch_range_st": 9.15,
+  "pitch_std_st": 3.4,
+  "energy_dyn_db": 21.4,
+  "asr": "わーい、大好き",
+  "candidates": [
+   {
+    "take": "win_3_take1.mp3",
+    "cer": 0.143,
+    "rng": 8.78,
+    "st": 3.03,
+    "en": 16.8
+   },
+   {
+    "take": "win_3_take2.mp3",
+    "cer": 0.143,
+    "rng": 7.89,
+    "st": 2.79,
+    "en": 16.8
+   },
+   {
+    "take": "win_3_take3.mp3",
+    "cer": 0.286,
+    "rng": 9.39,
+    "st": 3.5,
+    "en": 16.6
+   },
+   {
+    "take": "win_3_take4.mp3",
+    "cer": 1.429,
+    "rng": 8.81,
+    "st": 3.07,
+    "en": 12.2
+   },
+   {
+    "take": "win_3_take5.mp3",
+    "cer": 0.143,
+    "rng": 9.27,
+    "st": 3.15,
+    "en": 20.0
+   },
+   {
+    "take": "win_3_take6.mp3",
+    "cer": 0.143,
+    "rng": 9.55,
+    "st": 3.17,
+    "en": 20.9
+   },
+   {
+    "take": "win_3_take7.mp3",
+    "cer": 0.286,
+    "rng": 9.19,
+    "st": 3.2,
+    "en": 18.0
+   },
+   {
+    "take": "win_3_take8.mp3",
+    "cer": 0.143,
+    "rng": 9.15,
+    "st": 3.4,
+    "en": 21.4
+   }
+  ],
+  "lufs": -20.4
+ },
+ {
+  "file": "assets/audio/voice/stars3_1.mp3",
+  "take": "stars3_1_take2.mp3",
+  "cer": 0.0,
+  "pitch_range_st": 8.98,
+  "pitch_std_st": 2.71,
+  "energy_dyn_db": 20.3,
+  "asr": "すごい天才じゃん",
+  "candidates": [
+   {
+    "take": "stars3_1_take1.mp3",
+    "cer": 0.0,
+    "rng": 7.23,
+    "st": 2.61,
+    "en": 22.7
+   },
+   {
+    "take": "stars3_1_take2.mp3",
+    "cer": 0.0,
+    "rng": 8.98,
+    "st": 2.71,
+    "en": 20.3
+   },
+   {
+    "take": "stars3_1_take3.mp3",
+    "cer": 0.0,
+    "rng": 8.61,
+    "st": 2.65,
+    "en": 17.7
+   },
+   {
+    "take": "stars3_1_take4.mp3",
+    "cer": 0.0,
+    "rng": 8.54,
+    "st": 2.66,
+    "en": 16.6
+   },
+   {
+    "take": "stars3_1_take5.mp3",
+    "cer": 0.7,
+    "rng": 8.98,
+    "st": 2.6,
+    "en": 17.8
+   },
+   {
+    "take": "stars3_1_take6.mp3",
+    "cer": 0.3,
+    "rng": 7.65,
+    "st": 2.41,
+    "en": 18.6
+   },
+   {
+    "take": "stars3_1_take7.mp3",
+    "cer": 0.7,
+    "rng": 6.6,
+    "st": 2.26,
+    "en": 20.6
+   },
+   {
+    "take": "stars3_1_take8.mp3",
+    "cer": 0.0,
+    "rng": 7.66,
+    "st": 2.44,
+    "en": 21.6
+   }
+  ],
+  "lufs": -20.5
+ },
+ {
+  "file": "assets/audio/voice/stars3_2.mp3",
+  "take": "stars3_2_take7.mp3",
+  "cer": 0.429,
+  "pitch_range_st": 6.8,
+  "pitch_std_st": 2.3,
+  "energy_dyn_db": 22.0,
+  "asr": "ん? 完璧?",
+  "candidates": [
+   {
+    "take": "stars3_2_take1.mp3",
+    "cer": 2.714,
+    "rng": 6.9,
+    "st": 2.35,
+    "en": 25.2
+   },
+   {
+    "take": "stars3_2_take2.mp3",
+    "cer": 1.0,
+    "rng": 5.74,
+    "st": 2.11,
+    "en": 24.3
+   },
+   {
+    "take": "stars3_2_take3.mp3",
+    "cer": 1.0,
+    "rng": 6.86,
+    "st": 2.37,
+    "en": 21.6
+   },
+   {
+    "take": "stars3_2_take4.mp3",
+    "cer": 0.714,
+    "rng": 5.18,
+    "st": 1.86,
+    "en": 22.9
+   },
+   {
+    "take": "stars3_2_take5.mp3",
+    "cer": 0.571,
+    "rng": 6.87,
+    "st": 2.29,
+    "en": 22.8
+   },
+   {
+    "take": "stars3_2_take6.mp3",
+    "cer": 0.714,
+    "rng": 5.74,
+    "st": 2.02,
+    "en": 23.7
+   },
+   {
+    "take": "stars3_2_take7.mp3",
+    "cer": 0.429,
+    "rng": 6.8,
+    "st": 2.3,
+    "en": 22.0
+   },
+   {
+    "take": "stars3_2_take8.mp3",
+    "cer": 0.571,
+    "rng": 5.6,
+    "st": 1.89,
+    "en": 23.4
+   }
+  ],
+  "lufs": -20.4
+ },
+ {
+  "file": "assets/audio/voice/stars3_3.mp3",
+  "take": "stars3_3_take2.mp3",
+  "cer": 0.375,
+  "pitch_range_st": 8.03,
+  "pitch_std_st": 2.29,
+  "energy_dyn_db": 22.1,
+  "asr": "さぁ、かっこいい",
+  "candidates": [
+   {
+    "take": "stars3_3_take1.mp3",
+    "cer": 0.375,
+    "rng": 7.0,
+    "st": 2.11,
+    "en": 21.3
+   },
+   {
+    "take": "stars3_3_take2.mp3",
+    "cer": 0.375,
+    "rng": 8.03,
+    "st": 2.29,
+    "en": 22.1
+   },
+   {
+    "take": "stars3_3_take3.mp3",
+    "cer": 0.375,
+    "rng": 7.07,
+    "st": 2.17,
+    "en": 21.2
+   },
+   {
+    "take": "stars3_3_take4.mp3",
+    "cer": 0.375,
+    "rng": 6.37,
+    "st": 2.09,
+    "en": 21.7
+   },
+   {
+    "take": "stars3_3_take5.mp3",
+    "cer": 0.375,
+    "rng": 7.25,
+    "st": 2.11,
+    "en": 21.1
+   },
+   {
+    "take": "stars3_3_take6.mp3",
+    "cer": 0.375,
+    "rng": 8.41,
+    "st": 2.34,
+    "en": 20.8
+   },
+   {
+    "take": "stars3_3_take7.mp3",
+    "cer": 1.875,
+    "rng": 7.25,
+    "st": 2.07,
+    "en": 21.3
+   },
+   {
+    "take": "stars3_3_take8.mp3",
+    "cer": 0.375,
+    "rng": 7.8,
+    "st": 2.31,
+    "en": 21.0
+   }
+  ],
+  "lufs": -20.5
+ },
+ {
+  "file": "assets/audio/voice/lose_1.mp3",
+  "take": "lose_1_take2.mp3",
+  "cer": 0.0,
+  "pitch_range_st": 4.18,
+  "pitch_std_st": 1.52,
+  "energy_dyn_db": 19.5,
+  "asr": "も痛いよ。",
+  "candidates": [
+   {
+    "take": "lose_1_take1.mp3",
+    "cer": 0.2,
+    "rng": 4.04,
+    "st": 1.41,
+    "en": 21.4
+   },
+   {
+    "take": "lose_1_take2.mp3",
+    "cer": 0.0,
+    "rng": 4.18,
+    "st": 1.52,
+    "en": 19.5
+   },
+   {
+    "take": "lose_1_take3.mp3",
+    "cer": 0.2,
+    "rng": 3.68,
+    "st": 1.28,
+    "en": 18.7
+   },
+   {
+    "take": "lose_1_take4.mp3",
+    "cer": 0.2,
+    "rng": 4.4,
+    "st": 1.51,
+    "en": 19.7
+   },
+   {
+    "take": "lose_1_take5.mp3",
+    "cer": 1.0,
+    "rng": 3.31,
+    "st": 1.18,
+    "en": 18.5
+   },
+   {
+    "take": "lose_1_take6.mp3",
+    "cer": 0.2,
+    "rng": 4.14,
+    "st": 1.29,
+    "en": 18.6
+   },
+   {
+    "take": "lose_1_take7.mp3",
+    "cer": 0.2,
+    "rng": 3.68,
+    "st": 1.24,
+    "en": 20.5
+   },
+   {
+    "take": "lose_1_take8.mp3",
+    "cer": 0.2,
+    "rng": 4.86,
+    "st": 1.71,
+    "en": 18.5
+   }
+  ],
+  "lufs": -20.3
+ },
+ {
+  "file": "assets/audio/voice/lose_2.mp3",
+  "take": "lose_2_take5.mp3",
+  "cer": 0.111,
+  "pitch_range_st": 7.68,
+  "pitch_std_st": 2.21,
+  "energy_dyn_db": 21.2,
+  "asr": "うっ、もう一回、ね?",
+  "candidates": [
+   {
+    "take": "lose_2_take1.mp3",
+    "cer": 0.222,
+    "rng": 6.67,
+    "st": 2.11,
+    "en": 21.4
+   },
+   {
+    "take": "lose_2_take2.mp3",
+    "cer": 0.222,
+    "rng": 8.05,
+    "st": 2.17,
+    "en": 21.5
+   },
+   {
+    "take": "lose_2_take3.mp3",
+    "cer": 0.444,
+    "rng": 6.4,
+    "st": 1.91,
+    "en": 20.6
+   },
+   {
+    "take": "lose_2_take4.mp3",
+    "cer": 0.333,
+    "rng": 6.83,
+    "st": 1.97,
+    "en": 21.3
+   },
+   {
+    "take": "lose_2_take5.mp3",
+    "cer": 0.111,
+    "rng": 7.68,
+    "st": 2.21,
+    "en": 21.2
+   },
+   {
+    "take": "lose_2_take6.mp3",
+    "cer": 0.111,
+    "rng": 6.12,
+    "st": 1.9,
+    "en": 20.3
+   },
+   {
+    "take": "lose_2_take7.mp3",
+    "cer": 0.333,
+    "rng": 8.02,
+    "st": 2.23,
+    "en": 22.0
+   },
+   {
+    "take": "lose_2_take8.mp3",
+    "cer": 0.111,
+    "rng": 6.75,
+    "st": 1.94,
+    "en": 21.4
+   }
+  ],
+  "lufs": -20.1
+ },
+ {
+  "file": "assets/audio/voice/lose_3.mp3",
+  "take": "lose_3_take1.mp3",
+  "cer": 0.125,
+  "pitch_range_st": 8.56,
+  "pitch_std_st": 2.46,
+  "energy_dyn_db": 20.7,
+  "asr": "え、負けちゃった",
+  "candidates": [
+   {
+    "take": "lose_3_take1.mp3",
+    "cer": 0.125,
+    "rng": 8.56,
+    "st": 2.46,
+    "en": 20.7
+   },
+   {
+    "take": "lose_3_take2.mp3",
+    "cer": 0.25,
+    "rng": 7.51,
+    "st": 2.21,
+    "en": 22.7
+   },
+   {
+    "take": "lose_3_take3.mp3",
+    "cer": 0.125,
+    "rng": 6.86,
+    "st": 2.12,
+    "en": 20.9
+   },
+   {
+    "take": "lose_3_take4.mp3",
+    "cer": 0.125,
+    "rng": 7.02,
+    "st": 2.12,
+    "en": 21.1
+   },
+   {
+    "take": "lose_3_take5.mp3",
+    "cer": 0.125,
+    "rng": 6.62,
+    "st": 2.08,
+    "en": 24.3
+   },
+   {
+    "take": "lose_3_take6.mp3",
+    "cer": 0.125,
+    "rng": 7.46,
+    "st": 2.1,
+    "en": 24.0
+   },
+   {
+    "take": "lose_3_take7.mp3",
+    "cer": 0.125,
+    "rng": 6.34,
+    "st": 1.91,
+    "en": 21.2
+   },
+   {
+    "take": "lose_3_take8.mp3",
+    "cer": 0.125,
+    "rng": 7.02,
+    "st": 2.14,
+    "en": 22.7
+   }
+  ],
+  "lufs": -20.5
+ }
+]

@@ -1,0 +1,49 @@
+リダ / Lida（感情表現モデル） — AivisHub model 446d2053-14ca-4b68-897c-380faf555b59 (Style-Bert-VITS2 JP-Extra, model version 1.0.0)
+Retrieved from the AivisHub model manifest (https://api.aivis-project.com/v1/aivm-models/446d2053-14ca-4b68-897c-380faf555b59) on 2026-10-11.
+Model page: https://hub.aivis-project.com/aivm-models/446d2053-14ca-4b68-897c-380faf555b59
+Author page: https://hub.aivis-project.com/@Lida
+
+License type (manifest): Custom (カスタムライセンス) — set by the model author (creators: リダ).
+The author notes this license may change at any time. Re-check the model page before each release / update.
+
+==== License text (verbatim, as published by the author on AivisHub) ====
+使用条件及び、禁止事項の範囲内でご自由に商用・非商用問わずご利用いただけます。
+
+（使用条件） 
+利用の際は、話者に以下のキャラクター名とURLを記載してください。 
+「リダ」または「Lida」
+ https://youtube.com/channel/UC2tX473Zo09ZCnhAUNdAvjA/join
+
+（禁止事項） ・二次配布および譲渡 ・学習素材としての使用 ・暴力的、性的な利用 ・リダのキャラクター性やブランドを損なうと判断されるもの ・その他、不適切と判断されるもの
+
+このライセンスは都度、変更される場合があります。
+==== end of license text ====
+
+Model description (verbatim):
+※このモデルはカスタムライセンスが適応されます。必ずご確認下さい。
+VTuberリダの公式音声合成モデルです。
+
+利用の際は「リダ」と以下のURLを明記して下さい。
+https://youtube.com/channel/UC2tX473Zo09ZCnhAUNdAvjA/join
+
+Summary (for reference; the Japanese original above prevails):
+  - Commercial and non-commercial use are both allowed within the conditions and prohibitions.
+  - No prior contact / application is required, including for companies (the license makes no individual/corporate distinction).
+  - Condition: credit the speaker with the character name 「リダ」 or 「Lida」 and the URL
+    https://youtube.com/channel/UC2tX473Zo09ZCnhAUNdAvjA/join
+  - Prohibited: redistribution or transfer (of the model), use as training material, violent or sexual use,
+    anything judged to damage リダ's character or brand, anything else judged inappropriate.
+
+Credit used in this game (credits panel, README, store description, package licenses/):
+  主角语音：AivisSpeech: リダ / Lida
+  VTuber リダ 官方音声合成模型 · https://youtube.com/channel/UC2tX473Zo09ZCnhAUNdAvjA/join
+
+How this game uses the model:
+  The heroine's 15 voice lines are pre-generated with AivisSpeech Engine 1.2.0 (styles キュート / 元気 / ノーマル / 悲しみ)
+  and shipped as MP3 files (assets/audio/voice/). The model file itself is not included or redistributed, and the
+  generated audio is not used as training material. The lines are cute, non-violent, non-sexual reactions of an
+  original anime heroine. The voices are AI-generated and are not リダ's own recordings.
+
+Why this model (v1.5): the previous voice まお (ACML 1.0) belongs to Oz Chat / 株式会社Trippy, whose derivative-work
+guideline (https://0z.chat/wiki/fan_guidelines) asks companies / for-profit entities to contact them in advance.
+This game is published by a company, so the voice was switched to リダ, whose terms need only credit.

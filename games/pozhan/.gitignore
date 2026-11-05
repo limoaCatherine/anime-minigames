@@ -1,0 +1,30 @@
+# 依赖与构建产物 (都能用 npm 脚本重新生成)
+node_modules/
+dist/
+build/
+build-douyin/
+build-wechat/
+release/
+build-douyin-size.json
+build-wechat-size.json
+# 测试截图 / 模拟存档
+tools/preview/
+*.storage.json
+# 发布包与切片
+*.zip
+*.part[0-9][0-9][0-9]
+CYPZ.part*
+# 系统与编辑器垃圾
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.vscode/
+.idea/
+# 本地私有配置 / 密钥 (以防万一)
+.env
+.env.*
+*.pem
+*.key
+project.private.config.json

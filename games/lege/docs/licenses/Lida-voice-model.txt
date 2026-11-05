@@ -1,0 +1,39 @@
+リダ / Lida（感情表現モデル） — AivisHub model 446d2053-14ca-4b68-897c-380faf555b59 (model version 1.0.0, Style-Bert-VITS2 (JP-Extra))
+Retrieved from the AivisHub model manifest (https://api.aivis-project.com/v1/aivm-models/446d2053-14ca-4b68-897c-380faf555b59) on 2026-10-11.
+Model page: https://hub.aivis-project.com/aivm-models/446d2053-14ca-4b68-897c-380faf555b59
+Publisher on AivisHub: リダ
+
+License: Custom (author's own terms). Full license text from the manifest (verbatim):
+
+使用条件及び、禁止事項の範囲内でご自由に商用・非商用問わずご利用いただけます。
+
+（使用条件） 
+利用の際は、話者に以下のキャラクター名とURLを記載してください。 
+「リダ」または「Lida」
+ https://youtube.com/channel/UC2tX473Zo09ZCnhAUNdAvjA/join
+
+（禁止事項） ・二次配布および譲渡 ・学習素材としての使用 ・暴力的、性的な利用 ・リダのキャラクター性やブランドを損なうと判断されるもの ・その他、不適切と判断されるもの
+
+このライセンスは都度、変更される場合があります。
+
+注意 / Note: 作者在条款末尾注明「このライセンスは都度、変更される場合があります」——此许可可能随时变更。
+发布前和每次更新前，请到上面的模型页面重新确认最新条款。
+本作的使用方式：只分发预先合成好的 MP3 台词，不分发、不转让模型文件，不用于训练，不用于暴力 / 色情内容。
+
+Model description (verbatim):
+※このモデルはカスタムライセンスが適応されます。必ずご確認下さい。
+VTuberリダの公式音声合成モデルです。
+
+利用の際は「リダ」と以下のURLを明記して下さい。
+https://youtube.com/channel/UC2tX473Zo09ZCnhAUNdAvjA/join
+
+Credit used in this game (credits panel, README, store page):
+  リダ  https://youtube.com/channel/UC2tX473Zo09ZCnhAUNdAvjA/join
+  VTuber リダ 公式音声合成モデル
+
+Characters voiced with this model in 《美少女了个美》: 图书委员 / 精灵巫女 / 天空女王 / 咖啡前辈
+
+How this game uses the model:
+  Voice lines are pre-generated with AivisSpeech Engine 1.2.0 and shipped as MP3 files (assets/audio/voice/).
+  The model file itself is not included or redistributed. The voices are AI-generated and are not the voice actor's
+  or the official character's own recordings.

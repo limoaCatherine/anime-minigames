@@ -1,0 +1,263 @@
+{
+  "at": "2026-10-11T08:14:57.996Z",
+  "passed": 64,
+  "failed": 0,
+  "results": [
+    {
+      "ok": true,
+      "msg": "game.js 不含 window / localStorage / sessionStorage 标识符 (0/0/0)"
+    },
+    {
+      "ok": true,
+      "msg": "game.js 中 \"document\" 只出现在 Matter.js 的一条警告字符串里 (1 处)"
+    },
+    {
+      "ok": true,
+      "msg": "game.json：竖屏 + 2 个分包 (images / audio)"
+    },
+    {
+      "ok": true,
+      "msg": "project.config.json：compileType=game，appid=YOUR_APPID"
+    },
+    {
+      "ok": true,
+      "msg": "体积：主包 0.73 MB ≤ 4 MB，总计 2.43 MB ≤ 20 MB"
+    },
+    {
+      "ok": true,
+      "msg": "在没有 window/document 的沙箱里启动 Game"
+    },
+    {
+      "ok": true,
+      "msg": "画面放进安全区：缩放 0.722，偏移 (0.0, 101.8)，在刘海/胶囊按钮下方"
+    },
+    {
+      "ok": true,
+      "msg": "上屏画布按 DPR 铺满屏幕 (780×1688)"
+    },
+    {
+      "ok": true,
+      "msg": "加载完成进入主菜单"
+    },
+    {
+      "ok": true,
+      "msg": "启动时先加载 images / audio 分包 (tt.loadSubpackage)"
+    },
+    {
+      "ok": true,
+      "msg": "全部 10 张图片经 tt.createImage 从主包 / 分包加载 (非占位图)：10"
+    },
+    {
+      "ok": true,
+      "msg": "语音 15 句从 audio 分包预加载完成 (15)"
+    },
+    {
+      "ok": true,
+      "msg": "BGM 选择 mp3 (抖音 iOS 不支持 ogg)，从 audio 分包加载 (无缝循环版 bgm_main_loop.mp3)"
+    },
+    {
+      "ok": true,
+      "msg": "tt.showShareMenu + tt.onShareAppMessage 已注册 (右上角菜单分享)"
+    },
+    {
+      "ok": true,
+      "msg": "菜单分享内容：「画线守护美少女：画一条线，护住她！」"
+    },
+    {
+      "ok": true,
+      "msg": "AD_UNIT_ID 为空：广告关闭 (ads.enabled=false)，提示免费，不显示「侧边栏奖励 (免广告提示)」入口"
+    },
+    {
+      "ok": true,
+      "msg": "「制作人员」面板 (出品：狸猫 / リダ 署名 + URL / 许可)"
+    },
+    {
+      "ok": true,
+      "msg": "关闭制作人员面板"
+    },
+    {
+      "ok": true,
+      "msg": "触摸「开始游戏」进入选关 (tt.onTouchStart/End)"
+    },
+    {
+      "ok": true,
+      "msg": "按钮音效：预渲染的 click.mp3 经 InnerAudioContext 播放"
+    },
+    {
+      "ok": true,
+      "msg": "BGM 开始播放"
+    },
+    {
+      "ok": true,
+      "msg": "BGM 使用两路交替的无缝循环播放器 (循环长度 71.111 秒，文件多带 1.5 秒开头)"
+    },
+    {
+      "ok": true,
+      "msg": "到循环点交替到另一路 (循环 1 次，新的一路播放到 0.68 秒，旧的一路已停)"
+    },
+    {
+      "ok": true,
+      "msg": "接缝处不断音：两路重叠 26 帧，线性交叉淡化总音量 1.000~1.000"
+    },
+    {
+      "ok": true,
+      "msg": "兜底：没有帧回调时，一路播完 (onEnded) 立刻接上另一路"
+    },
+    {
+      "ok": true,
+      "msg": "触摸第 1 关进入关卡"
+    },
+    {
+      "ok": true,
+      "msg": "tt.onHide：画到一半的线作废 (未提交)，关卡暂停 (fsm=paused)"
+    },
+    {
+      "ok": true,
+      "msg": "tt.onHide：BGM 暂停"
+    },
+    {
+      "ok": true,
+      "msg": "tt.onShow：保持暂停，等玩家点「继续」(与网页版一致)"
+    },
+    {
+      "ok": true,
+      "msg": "tt.onShow：BGM 淡入继续"
+    },
+    {
+      "ok": true,
+      "msg": "按参考解法用触摸画线 (17 个点)，线成形开始生存倒计时"
+    },
+    {
+      "ok": true,
+      "msg": "生存倒计时开始自动录屏 (GameRecorderManager.start duration=14s)"
+    },
+    {
+      "ok": true,
+      "msg": "倒计时中 tt.onHide：计时暂停 (已坚持 0.183s，后台 2 秒后仍是 0.183s)"
+    },
+    {
+      "ok": true,
+      "msg": "tt.onHide：蜂群嗡嗡声静音"
+    },
+    {
+      "ok": true,
+      "msg": "第 1 关通关 (won，3 星)"
+    },
+    {
+      "ok": true,
+      "msg": "倒计时中蜂群嗡嗡声：无缝循环 wav (音量随蜜蜂距离平滑)"
+    },
+    {
+      "ok": true,
+      "msg": "胜利 / 线成形音效 (预渲染 mp3)"
+    },
+    {
+      "ok": true,
+      "msg": "过关语音 (audio 分包)"
+    },
+    {
+      "ok": true,
+      "msg": "胜利 1.5 秒后停止录屏，得到 videoPath"
+    },
+    {
+      "ok": true,
+      "msg": "结算面板显示「分享录屏」按钮"
+    },
+    {
+      "ok": true,
+      "msg": "点击分享 -> tt.shareAppMessage({channel:\"video\", extra:{videoPath}})"
+    },
+    {
+      "ok": true,
+      "msg": "存档写入 tt.setStorageSync (第 1 关 3 星)"
+    },
+    {
+      "ok": true,
+      "msg": "HUD 提示按钮没有「广告」角标 (tag=null)"
+    },
+    {
+      "ok": true,
+      "msg": "线没护住 -> 失败 (bee)"
+    },
+    {
+      "ok": true,
+      "msg": "失败面板「提示」按钮没有「广告」角标 (tag=null)"
+    },
+    {
+      "ok": true,
+      "msg": "点提示：没有弹窗、没有广告 (showModal 0 次，激励视频 0 次)"
+    },
+    {
+      "ok": true,
+      "msg": "提示直接显示 (免费；不写入「已解锁」，每次都免费)"
+    },
+    {
+      "ok": true,
+      "msg": "看过免费提示后通关：本次封顶 2 星 (2 星，原本可得 3 星)"
+    },
+    {
+      "ok": true,
+      "msg": "画线中点 HUD 提示：直接显示，同样没有任何广告界面"
+    },
+    {
+      "ok": true,
+      "msg": "运行期间没有读取 window / document / localStorage / Image / Audio / AudioContext / performance 等浏览器全局 (无)"
+    },
+    {
+      "ok": true,
+      "msg": "音效后端：预渲染样本 (无 WebAudio)，本局播放过 20 种：click start drawStart scribble_0 scribble_1 pop gasp boing_1 boing_0 boing_2 boing_3 tick"
+    },
+    {
+      "ok": true,
+      "msg": "重启后从 tt.getStorageSync 恢复存档 (第 1 关 3 星)"
+    },
+    {
+      "ok": true,
+      "msg": "config.js 填了 AD_UNIT_ID -> 广告启用"
+    },
+    {
+      "ok": true,
+      "msg": "HUD 提示按钮显示「广告」角标 (tag=广告)"
+    },
+    {
+      "ok": true,
+      "msg": "点提示 -> tt.createRewardedVideoAd 播放 -> 看完 (isEnded=true) 解锁第 3 关提示，角标变「免费」，没有占位弹窗"
+    },
+    {
+      "ok": true,
+      "msg": "ads.showRewardedAd()：广告位 test-ad-unit，isEnded=true -> true"
+    },
+    {
+      "ok": true,
+      "msg": "中途关闭广告 (isEnded=false) -> 不发奖励"
+    },
+    {
+      "ok": true,
+      "msg": "tt.checkScene({scene:\"sidebar\"}) -> 可用"
+    },
+    {
+      "ok": true,
+      "msg": "主菜单显示「侧边栏奖励」按钮"
+    },
+    {
+      "ok": true,
+      "msg": "从侧边栏进入 (launch_from=homepage, location=sidebar_card) -> 领取免广告提示 ×1"
+    },
+    {
+      "ok": true,
+      "msg": "免广告提示生效 (不播放广告)"
+    },
+    {
+      "ok": true,
+      "msg": "当天再次点击：弹窗 -> tt.navigateToScene({scene:\"sidebar\"})"
+    },
+    {
+      "ok": true,
+      "msg": "tt.showToast 提示"
+    },
+    {
+      "ok": true,
+      "msg": "第二次启动同样没有访问浏览器全局"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>微信小游戏模拟 (测试用)</title>
+<style>html,body{margin:0;background:#000;overflow:hidden}</style></head>
+<body>
+<script src="wx-mock.js"></script>
+<script>
+  // 模拟 game.js：require('./wechat.config.js'); require('./js/main.js');
+  window.module = { exports: {} };
+  const Q = new URLSearchParams(location.search);
+  function load(src) { return new Promise((res, rej) => { const s = document.createElement('script'); s.src = src; s.onload = res; s.onerror = rej; document.body.appendChild(s); }); }
+  load('wechat.config.js').then(() => {
+    if (Q.get('adUnit')) GameGlobal.WECHAT_CONFIG.rewardedAdUnitId = Q.get('adUnit');
+    return load('js/main.js');
+  });
+</script>
+</body></html>

@@ -1,0 +1,398 @@
+[
+ {
+  "id": 1,
+  "name": "初次守护",
+  "shaky": 1,
+  "dome": 1,
+  "dome3": 1,
+  "domeStars": 3,
+  "fails": {}
+ },
+ {
+  "id": 2,
+  "name": "墙角的约定",
+  "shaky": 1,
+  "dome": 1,
+  "dome3": 1,
+  "domeStars": 3,
+  "fails": {}
+ },
+ {
+  "id": 3,
+  "name": "天台高处",
+  "shaky": 1,
+  "dome": 1,
+  "dome3": 1,
+  "domeStars": 3,
+  "fails": {}
+ },
+ {
+  "id": 4,
+  "name": "盖上盖子",
+  "shaky": 1,
+  "dome": 0.08333333333333333,
+  "dome3": 0,
+  "domeStars": 2,
+  "fails": {}
+ },
+ {
+  "id": 5,
+  "name": "关好门",
+  "shaky": 1,
+  "dome": 0.16666666666666666,
+  "dome3": 0.16666666666666666,
+  "domeStars": 3,
+  "fails": {}
+ },
+ {
+  "id": 6,
+  "name": "加班老板来了",
+  "shaky": 0.9375,
+  "dome": 0.08333333333333333,
+  "dome3": 0,
+  "domeStars": 2,
+  "fails": {
+   "paper": 1
+  }
+ },
+ {
+  "id": 7,
+  "name": "下班别想走",
+  "shaky": 1,
+  "dome": 0.5,
+  "dome3": 0.08333333333333333,
+  "domeStars": 2.1666666666666665,
+  "fails": {}
+ },
+ {
+  "id": 8,
+  "name": "老板与蜂群",
+  "shaky": 1,
+  "dome": 0,
+  "dome3": 0,
+  "domeStars": 0,
+  "fails": {}
+ },
+ {
+  "id": 9,
+  "name": "催婚亲戚",
+  "shaky": 0.9375,
+  "dome": 0,
+  "dome3": 0,
+  "domeStars": 0,
+  "fails": {
+   "heart": 1
+  }
+ },
+ {
+  "id": 10,
+  "name": "木箱帮帮忙",
+  "shaky": 0.9375,
+  "dome": 0.5,
+  "dome3": 0.16666666666666666,
+  "domeStars": 2.3333333333333335,
+  "fails": {
+   "bee": 1
+  }
+ },
+ {
+  "id": 11,
+  "name": "电梯上班",
+  "shaky": 0.875,
+  "dome": 0.3333333333333333,
+  "dome3": 0,
+  "domeStars": 1,
+  "fails": {
+   "bee": 2
+  }
+ },
+ {
+  "id": 12,
+  "name": "地板要塌了",
+  "shaky": 1,
+  "dome": 0.08333333333333333,
+  "dome3": 0,
+  "domeStars": 1,
+  "fails": {}
+ },
+ {
+  "id": 13,
+  "name": "楼梯滚石",
+  "shaky": 1,
+  "dome": 0.25,
+  "dome3": 0.16666666666666666,
+  "domeStars": 2.6666666666666665,
+  "fails": {}
+ },
+ {
+  "id": 14,
+  "name": "移动工位",
+  "shaky": 0.875,
+  "dome": 0,
+  "dome3": 0,
+  "domeStars": 0,
+  "fails": {
+   "bee": 2
+  }
+ },
+ {
+  "id": 15,
+  "name": "禁止涂鸦",
+  "shaky": 0.9375,
+  "dome": 0,
+  "dome3": 0,
+  "domeStars": 0,
+  "fails": {
+   "bee": 1
+  }
+ },
+ {
+  "id": 16,
+  "name": "玻璃隔断",
+  "shaky": 1,
+  "dome": 0.5833333333333334,
+  "dome3": 0.08333333333333333,
+  "domeStars": 2.142857142857143,
+  "fails": {}
+ },
+ {
+  "id": 17,
+  "name": "午休相亲",
+  "shaky": 1,
+  "dome": 0.5,
+  "dome3": 0,
+  "domeStars": 1,
+  "fails": {}
+ },
+ {
+  "id": 18,
+  "name": "撑住走廊",
+  "shaky": 1,
+  "dome": 0,
+  "dome3": 0,
+  "domeStars": 0,
+  "fails": {}
+ },
+ {
+  "id": 19,
+  "name": "会议室",
+  "shaky": 0.875,
+  "dome": 0.16666666666666666,
+  "dome3": 0,
+  "domeStars": 1.5,
+  "fails": {
+   "bee": 2
+  }
+ },
+ {
+  "id": 20,
+  "name": "加班风暴",
+  "shaky": 0.875,
+  "dome": 0.16666666666666666,
+  "dome3": 0.08333333333333333,
+  "domeStars": 2.5,
+  "fails": {
+   "bee": 2
+  }
+ },
+ {
+  "id": 21,
+  "name": "弹簧初体验",
+  "shaky": 1,
+  "dome": 0.5,
+  "dome3": 0,
+  "domeStars": 1.5,
+  "fails": {}
+ },
+ {
+  "id": 22,
+  "name": "双响炮",
+  "shaky": 0.875,
+  "dome": 0.08333333333333333,
+  "dome3": 0,
+  "domeStars": 1,
+  "fails": {
+   "bee": 2
+  }
+ },
+ {
+  "id": 23,
+  "name": "跷跷板",
+  "shaky": 0.875,
+  "dome": 0.3333333333333333,
+  "dome3": 0,
+  "domeStars": 1,
+  "fails": {
+   "crate": 1,
+   "rejected": 1
+  }
+ },
+ {
+  "id": 24,
+  "name": "鞭炮弹弹弹",
+  "shaky": 0.9375,
+  "dome": 0.08333333333333333,
+  "dome3": 0,
+  "domeStars": 2,
+  "fails": {
+   "bee": 1
+  }
+ },
+ {
+  "id": 25,
+  "name": "阿姨落地",
+  "shaky": 1,
+  "dome": 0.08333333333333333,
+  "dome3": 0,
+  "domeStars": 1,
+  "fails": {}
+ },
+ {
+  "id": 26,
+  "name": "回家的路",
+  "shaky": 1,
+  "dome": 0.5,
+  "dome3": 0,
+  "domeStars": 1,
+  "fails": {}
+ },
+ {
+  "id": 27,
+  "name": "团圆饭桌",
+  "shaky": 0.9375,
+  "dome": 0.16666666666666666,
+  "dome3": 0,
+  "domeStars": 2,
+  "fails": {
+   "rockfall": 1
+  }
+ },
+ {
+  "id": 28,
+  "name": "玻璃花房",
+  "shaky": 1,
+  "dome": 0,
+  "dome3": 0,
+  "domeStars": 0,
+  "fails": {}
+ },
+ {
+  "id": 29,
+  "name": "双跷跷板",
+  "shaky": 1,
+  "dome": 0,
+  "dome3": 0,
+  "domeStars": 0,
+  "fails": {}
+ },
+ {
+  "id": 30,
+  "name": "过年大团圆",
+  "shaky": 0.875,
+  "dome": 0.08333333333333333,
+  "dome3": 0,
+  "domeStars": 2,
+  "fails": {
+   "rejected": 1,
+   "bee": 1
+  }
+ },
+ {
+  "id": 31,
+  "name": "任意门",
+  "shaky": 1,
+  "dome": 0.5,
+  "dome3": 0.08333333333333333,
+  "domeStars": 2.1666666666666665,
+  "fails": {}
+ },
+ {
+  "id": 32,
+  "name": "风车转转",
+  "shaky": 1,
+  "dome": 0.25,
+  "dome3": 0,
+  "domeStars": 2,
+  "fails": {}
+ },
+ {
+  "id": 33,
+  "name": "传送落石",
+  "shaky": 0.9375,
+  "dome": 0.25,
+  "dome3": 0.08333333333333333,
+  "domeStars": 2.3333333333333335,
+  "fails": {
+   "bee": 1
+  }
+ },
+ {
+  "id": 34,
+  "name": "加班传送门",
+  "shaky": 1,
+  "dome": 0.5,
+  "dome3": 0.08333333333333333,
+  "domeStars": 2.1666666666666665,
+  "fails": {}
+ },
+ {
+  "id": 35,
+  "name": "移动的家",
+  "shaky": 1,
+  "dome": 0,
+  "dome3": 0,
+  "domeStars": 0,
+  "fails": {}
+ },
+ {
+  "id": 36,
+  "name": "弹射传送",
+  "shaky": 0.9375,
+  "dome": 0.16666666666666666,
+  "dome3": 0.08333333333333333,
+  "domeStars": 2.5,
+  "fails": {
+   "bee": 1
+  }
+ },
+ {
+  "id": 37,
+  "name": "风车阵",
+  "shaky": 0.875,
+  "dome": 0,
+  "dome3": 0,
+  "domeStars": 0,
+  "fails": {
+   "bee": 2
+  }
+ },
+ {
+  "id": 38,
+  "name": "木箱快递",
+  "shaky": 1,
+  "dome": 0.4166666666666667,
+  "dome3": 0.08333333333333333,
+  "domeStars": 1.8,
+  "fails": {}
+ },
+ {
+  "id": 39,
+  "name": "地下来客",
+  "shaky": 1,
+  "dome": 0,
+  "dome3": 0,
+  "domeStars": 0,
+  "fails": {}
+ },
+ {
+  "id": 40,
+  "name": "最终守护",
+  "shaky": 0.9375,
+  "dome": 0,
+  "dome3": 0,
+  "domeStars": 0,
+  "fails": {
+   "bee": 1
+  }
+ }
+]

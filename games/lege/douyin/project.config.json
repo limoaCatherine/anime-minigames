@@ -1,0 +1,14 @@
+{
+  "description": "《美少女了个美》抖音小游戏 · 出品：狸猫 (appid 由 build:douyin 从 douyin.config.js 写入)",
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "postcss": false,
+    "minified": false,
+    "newFeature": true
+  },
+  "compileType": "game",
+  "appid": "__APPID__",
+  "projectname": "美少女了个美",
+  "condition": {}
+}

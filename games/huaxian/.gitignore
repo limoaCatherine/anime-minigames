@@ -1,0 +1,51 @@
+# 依赖
+node_modules/
+
+# 构建产物 (可由 npm run build / package 重新生成)
+dist/
+/douyin/game.js
+/douyin/game.json
+/douyin/project.config.json
+/douyin/build-info.json
+/douyin/assets/
+/douyin/subpackages/
+/douyin/licenses/
+/wechat/game.js
+/wechat/game.json
+/wechat/project.config.json
+/wechat/build-info.json
+/wechat/assets/
+/wechat/subpackages/
+/wechat/licenses/
+build/
+release/
+out/
+*.exe
+*.asar
+*.zip
+*.7z
+
+# 语音候选 take (tools/generate_voices.mjs --takes 8 --out build/voice-takes 生成)
+voice-takes/
+*_take[0-9].mp3
+*_take[0-9][0-9].mp3
+
+# 密钥 / 本地配置 (小游戏代码上传密钥、环境变量等，绝不能提交)
+private.*.key
+*.pem
+*.p12
+.env
+.env.*
+project.private.config.json
+
+# 编辑器 / 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.log
+npm-debug.log*
+__pycache__/
+*.pyc
+*.tmp

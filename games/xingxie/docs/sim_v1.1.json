@@ -1,0 +1,247 @@
+{
+ "normal": {
+  "chars": {
+   "hikari": {
+    "n": 120,
+    "win": 63,
+    "nox300": 10,
+    "ls": 76,
+    "lsavg": 31,
+    "lswin": 84,
+    "sheep": 43,
+    "surv": 304,
+    "early": 0,
+    "lv": 23.2,
+    "evo": 0.62
+   },
+   "kanon": {
+    "n": 120,
+    "win": 66,
+    "nox300": 9,
+    "ls": 78,
+    "lsavg": 30,
+    "lswin": 87,
+    "sheep": 48,
+    "surv": 301,
+    "early": 0,
+    "lv": 23.4,
+    "evo": 0.62
+   },
+   "rinne": {
+    "n": 120,
+    "win": 72,
+    "nox300": 0,
+    "ls": 103,
+    "lsavg": 75,
+    "lswin": 83,
+    "sheep": 10,
+    "surv": 358,
+    "early": 0,
+    "lv": 23.4,
+    "evo": 0.37
+   },
+   "momo": {
+    "n": 120,
+    "win": 69,
+    "nox300": 0,
+    "ls": 98,
+    "lsavg": 54,
+    "lswin": 85,
+    "sheep": 24,
+    "surv": 336,
+    "early": 0,
+    "lv": 26.0,
+    "evo": 0.62
+   },
+   "tsukimi": {
+    "n": 120,
+    "win": 67,
+    "nox300": 2,
+    "ls": 89,
+    "lsavg": 48,
+    "lswin": 87,
+    "sheep": 30,
+    "surv": 323,
+    "early": 0,
+    "lv": 24.1,
+    "evo": 0.71
+   },
+   "regina": {
+    "n": 180,
+    "win": 66,
+    "nox300": 12,
+    "note": "女王威仪 area 0.06 后重跑"
+   }
+  },
+  "weapons": {
+   "starWand": [
+    343,
+    67
+   ],
+   "sakuraBlade": [
+    252,
+    62
+   ],
+   "talisman": [
+    306,
+    70
+   ],
+   "chainSpark": [
+    320,
+    64
+   ],
+   "heartRang": [
+    335,
+    71
+   ],
+   "roseField": [
+    245,
+    84
+   ],
+   "paperCrane": [
+    260,
+    80
+   ],
+   "frostPrism": [
+    342,
+    73
+   ],
+   "meteor": [
+    342,
+    78
+   ]
+  },
+  "talents": {
+   "hikari": 100,
+   "kanon": 95,
+   "rinne": 95,
+   "momo": 90,
+   "tsukimi": 100,
+   "regina": 90
+  },
+  "talents_total": 95
+ },
+ "nightmare": {
+  "chars": {
+   "hikari": {
+    "n": 120,
+    "win": 37,
+    "nox300": 2,
+    "ls": 52,
+    "lsavg": 37,
+    "lswin": 79,
+    "sheep": 25,
+    "surv": 274,
+    "early": 0,
+    "lv": 21.2,
+    "evo": 0.58
+   },
+   "kanon": {
+    "n": 120,
+    "win": 38,
+    "nox300": 2,
+    "ls": 51,
+    "lsavg": 38,
+    "lswin": 84,
+    "sheep": 16,
+    "surv": 250,
+    "early": 0,
+    "lv": 19.0,
+    "evo": 0.39
+   },
+   "rinne": {
+    "n": 120,
+    "win": 35,
+    "nox300": 0,
+    "ls": 58,
+    "lsavg": 86,
+    "lswin": 72,
+    "sheep": 1,
+    "surv": 305,
+    "early": 0,
+    "lv": 20.0,
+    "evo": 0.14
+   },
+   "momo": {
+    "n": 120,
+    "win": 38,
+    "nox300": 0,
+    "ls": 62,
+    "lsavg": 54,
+    "lswin": 73,
+    "sheep": 9,
+    "surv": 286,
+    "early": 0,
+    "lv": 23.6,
+    "evo": 0.46
+   },
+   "tsukimi": {
+    "n": 120,
+    "win": 31,
+    "nox300": 0,
+    "ls": 45,
+    "lsavg": 60,
+    "lswin": 82,
+    "sheep": 6,
+    "surv": 272,
+    "early": 0,
+    "lv": 19.9,
+    "evo": 0.32
+   },
+   "regina": {
+    "n": 180,
+    "win": 32,
+    "nox300": 4,
+    "note": "女王威仪 area 0.06 后重跑"
+   }
+  },
+  "weapons": {
+   "starWand": [
+    327,
+    35
+   ],
+   "sakuraBlade": [
+    217,
+    35
+   ],
+   "talisman": [
+    354,
+    43
+   ],
+   "chainSpark": [
+    318,
+    36
+   ],
+   "heartRang": [
+    304,
+    41
+   ],
+   "roseField": [
+    242,
+    57
+   ],
+   "paperCrane": [
+    231,
+    41
+   ],
+   "frostPrism": [
+    311,
+    39
+   ],
+   "meteor": [
+    307,
+    50
+   ]
+  },
+  "talents": {
+   "hikari": 75,
+   "kanon": 65,
+   "rinne": 60,
+   "momo": 80,
+   "tsukimi": 90,
+   "regina": 90
+  },
+  "talents_total": 77
+ },
+ "note": "AI 走位模拟；每角色 120~180 局 (regina 180)；天赋=满 每角色 20 局"
+}

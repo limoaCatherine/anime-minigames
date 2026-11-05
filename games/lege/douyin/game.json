@@ -1,0 +1,7 @@
+{
+  "deviceOrientation": "portrait",
+  "showStatusBar": false,
+  "subPackages": [
+    { "name": "audio", "root": "assets/audio/" }
+  ]
+}

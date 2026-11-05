@@ -1,0 +1,22 @@
+AivisSpeech Engine — https://github.com/Aivis-Project/AivisSpeech-Engine
+Version used to generate the voice lines: 1.2.0. Retrieved 2026-10-11.
+
+License: GNU Lesser General Public License v3.0 (LGPL-3.0).
+  Full text: AivisSpeech-Engine-LGPL-3.0.txt (the repository's LICENSE file, verbatim).
+  LGPL-3.0 adds permissions on top of GPL-3.0, so the GPL-3.0 text is included as GPL-3.0.txt.
+
+From the AivisSpeech Engine README, "ライセンス" section (verbatim):
+  ベースである VOICEVOX ENGINE のデュアルライセンスのうち、LGPL-3.0 のみを単独で継承します。
+
+From the AivisSpeech Engine README FAQ, "AivisSpeech Engine は無料で利用できますか？クレジット表記は必要ですか？" (verbatim excerpt):
+  （成果物で使った音声合成モデルのライセンス次第ではありますが）少なくともソフトウェア本体はクレジット表記不要で、
+  個人・法人・商用・非商用を問わず、自由にお使いいただけます。
+  AivisHub などで公開されている ACML / ACML-NC / パブリックドメイン (CC0) ライセンスの音声合成モデルをお使いなら、
+  クレジット表記の義務はありません。
+  …とはいえ、より多くの方に AivisSpeech のことを知っていただきたい気持ちもあります。
+  もしよければ、成果物のどこかに AivisSpeech のことをクレジットしていただけると嬉しいです。
+
+How this game uses the engine:
+  The engine was used only at development time to generate the MP3 voice files. It is not bundled, linked or
+  redistributed with the game, so the game itself is not a "Combined Work" under the LGPL. The engine is credited
+  in the credits panel and README anyway.
