@@ -2,8 +2,8 @@
 
 **下载：**
 
-- Windows 版：[meishaonv-hecheng-windows.zip](https://github.com/limoaCatherine/anime-merge/releases/latest/download/meishaonv-hecheng-windows.zip)（约 155 MB）解压后双击 `美少女合成\美少女合成.exe`
-- 网页版：[meishaonv-hecheng-web.zip](https://github.com/limoaCatherine/anime-merge/releases/latest/download/meishaonv-hecheng-web.zip)（约 5 MB）解压后双击 `美少女合成-网页版\index.html`
+- Windows 版：[meishaonv-hecheng-windows.zip](https://github.com/limoaCatherine/anime-minigames/releases/download/merge-v1.8.0/meishaonv-hecheng-windows.zip)（约 155 MB）解压后双击 `美少女合成\美少女合成.exe`
+- 网页版：[meishaonv-hecheng-web.zip](https://github.com/limoaCatherine/anime-minigames/releases/download/merge-v1.8.0/meishaonv-hecheng-web.zip)（约 5 MB）解压后双击 `美少女合成-网页版\index.html`
 
 如果出现「Windows 已保护你的电脑」，点「更多信息」→「仍要运行」。
 

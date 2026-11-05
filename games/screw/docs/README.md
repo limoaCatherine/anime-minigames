@@ -1,6 +1,6 @@
 # 拆封绘卷 · 开发说明
 
-> 只想玩的话，不用看这里，到 [Releases](https://github.com/limoaCatherine/anime-screw/releases/latest) 下载解压即可（见根目录 README）。
+> 只想玩的话，不用看这里，到 [Releases](https://github.com/limoaCatherine/anime-minigames/releases/tag/screw-v1.2.0) 下载解压即可（见根目录 README）。
 
 二次元拧螺丝解谜小游戏。画框里的插画被一层层木板、铜板、亚克力板钉住了，点螺丝把板子拆下来，最底下露出这一关的那块插画碎片；一幅画 10 块，拼齐了收进画册。
 

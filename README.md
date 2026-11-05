@@ -4,8 +4,8 @@
 
 | 游戏 | 目录 | 玩法 | 下载 |
 | --- | --- | --- | --- |
-| 美少女合成 | [`games/merge`](games/merge) | 两个相同等级的角色碰到一起，合成下一级 | [Windows](https://github.com/limoaCatherine/anime-merge/releases/latest/download/meishaonv-hecheng-windows.zip) · [网页](https://github.com/limoaCatherine/anime-merge/releases/latest/download/meishaonv-hecheng-web.zip) |
-| 拆封绘卷 | [`games/screw`](games/screw) | 拧掉画框上的螺丝，揭开被钉住的插画 | [Windows](https://github.com/limoaCatherine/anime-screw/releases/latest/download/chaifeng-huijuan-windows.zip) · [网页](https://github.com/limoaCatherine/anime-screw/releases/latest/download/chaifeng-huijuan-web.zip) |
+| 美少女合成 | [`games/merge`](games/merge) | 两个相同等级的角色碰到一起，合成下一级 | [Windows](https://github.com/limoaCatherine/anime-minigames/releases/download/merge-v1.8.0/meishaonv-hecheng-windows.zip) · [网页](https://github.com/limoaCatherine/anime-minigames/releases/download/merge-v1.8.0/meishaonv-hecheng-web.zip) |
+| 拆封绘卷 | [`games/screw`](games/screw) | 拧掉画框上的螺丝，揭开被钉住的插画 | [Windows](https://github.com/limoaCatherine/anime-minigames/releases/download/screw-v1.2.0/chaifeng-huijuan-windows.zip) · [网页](https://github.com/limoaCatherine/anime-minigames/releases/download/screw-v1.2.0/chaifeng-huijuan-web.zip) |
 
 Windows 弹出「Windows 已保护你的电脑」时，点「更多信息」→「仍要运行」。
 
